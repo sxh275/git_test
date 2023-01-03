@@ -1,1 +1,4 @@
-Adding text to practice git add.
+git status
+git add "filename"
+git commit -m "commit message here"
+git log 
