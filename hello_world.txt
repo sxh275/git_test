@@ -2,3 +2,4 @@ git status
 git add "filename"
 git commit -m "commit message here"
 git log 
+git push origin main
